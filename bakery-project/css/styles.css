@@ -31,6 +31,7 @@ ul {
 /* Link */
 .link {
     color: var(--color-primary-light);
+    text-decoration: none;
 }
 
 .link:hover {
